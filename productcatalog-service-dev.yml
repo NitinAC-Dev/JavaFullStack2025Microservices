@@ -10,4 +10,4 @@ spring:
       ddl-auto: update
     show-sql: true
 
-message: in development profile  - updated
+message: in development profile  - updated after refresh scope
